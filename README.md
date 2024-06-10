@@ -1,3 +1,5 @@
+# This repo is a fork from the original repo by the authors of the paper.
+
 # Soft Contrastive Learning for Time Series
 
 ### Seunghan Lee, Taeyoung Park, Kibok Lee

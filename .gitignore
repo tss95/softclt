@@ -1,0 +1,6 @@
+datasets/*
+env/*
+gpu_check.py
+*.zip
+*.tar.gz
+*.pyc

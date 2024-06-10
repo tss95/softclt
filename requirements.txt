@@ -1,0 +1,8 @@
+scipy
+pandas
+matplotlib
+scikit-learn
+typing_extensions
+tensorboard
+tslearn
+tqdm
