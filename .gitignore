@@ -3,3 +3,7 @@ env/*
 *.zip
 *.tar.gz
 *.pyc
+*/*/*.pyc
+.vscode
+*.pyc
+*.pkl

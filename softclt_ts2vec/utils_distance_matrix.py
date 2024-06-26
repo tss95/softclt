@@ -106,8 +106,9 @@ def get_EUC(MTS_tr):
     return euclidean_distances(MTS_tr)
 
 def save_sim_mat(X_tr, min_ = 0, max_ = 1, multivariate=False, type_='DTW'):
+    
     if multivariate:
-        assert type=='DTW'
+        assert type_=='DTW'
         dist_mat = get_MDTW(X_tr)
     else:
         if type_=='DTW':
